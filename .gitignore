@@ -1,0 +1,12 @@
+
+*.xml
+
+.idea/.name
+
+.DS_Store
+
+*.iml
+
+#help#
+
+*.out
